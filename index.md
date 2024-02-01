@@ -1,0 +1,103 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+# Matthew Freeman
+
+[Summary](#summary) • [Technical Skills](#skills) • [Experience](#experience) • [Projects](#projects) • [References](#references)
+
+Knoxville, TN • (805) 559-3116 • m6freeman@tuta.io • https://mattfreeman.dev
+
+LinkedIn: www.linkedin.com/in/m6freeman • Github: https://github.com/m6freeman
+
+## Summary
+<a name="summary"> <a>
+
+Software Engineer with over 10 years of experience designing, developing, deploying, and supporting applications, websites, and video games.
+Actively develops and publishes microservice-architectured, cloud-based enterprise solutions and supports legacy infrastructure.
+Strong technical background encompassing a variety of software and hardware technologies.
+Collaborates with all levels of personnel, senior leadership, and clients to foster continuous improvement and enhance profitability.
+
+## Technical Skills
+<a name="skills"> <a>
+
+|Development Stack  |Enterprise Solutions   |Hobbyist   |
+|-|-|-|     
+|Python3.x, C#, Visual Basic    |AWS Lambda, SQS, S3        |Arch, Debian       |
+|.NET Framework 4.x - .NET6     |IIS for Windows Server     |Zsh, Bash, Tmux    |
+|ASP.NET MVC                    |Mobius 4.4, 11.2           |Rust               |
+|Git / Github, TFS              |Infor / FSM / GHR / Lawson |HTML5 / CSS / JS   |
+|VSCode / Visual Studio, NeoVim |Ping Federate              |Unity3D            |  
+|MS SQL Server                  |Jira / Confluence          |Adobe Ps, Id, Pr   |
+|                               |Agile                      |                   |
+                                                               
+## Experience
+<a name="experience"> <a>
+
+### Pilot Company, Knoxville, TN (2021 - Present)
+
+.NET Development Engineer II
+
+- TODO
+
+### United States Navy, San Diego, CA (2015 – 2019)
+
+Mass Communication Specialist 3rd Class (SW)
+
+- Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies
+- Designed publications and filmed and edited videos for military promotional use
+- Secret Clearance eligible
+
+### Independent Web Development, Thousand Oaks, CA (2009 – 2015)
+
+Developer
+
+- Gathered requirements, designed, developed, and remotely administered multiple client websites
+- Worked with a team of three developers to create websites using PHP, HTML, CSS, JS, and MySQL
+- PHPMyAdmin experience and MySQL database troubleshooting
+- Optimized search engine optimization (SEO) with Google Adwords and Webmaster Tools
+- Managed web servers, domains and provided hosting for customers using CPanel
+- Diagnosed production impacting issues within LAMP (Linux/Apache/MySQL/PHP) environments such as UI issues, expired certificates, and hosting migration issues
+- Strong familiarity with CMS's such as Drupal and Wordpress
+
+### Hampton Inn, Agoura Hills, CA (2008 – 2015)
+
+Guest Services Assistant
+
+- Managed room inventory through POS application
+- Trained new employees on POS applications and hotel policies
+- Preformed on-call maintenance to computers and room appliances
+
+## Projects 
+<a name="projects"> <a>
+
+### Whale Fall Studios, San Diego, CA (2017 – 2021)
+
+Game Developer
+
+- Developed Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio
+- Published and maintained various game projects including Porthole on the Google Play Store.
+- Conducted unit, functional, integration, and regression testing on all areas of applications
+
+### Bear Down Brewery LLC, San Diego, CA (2019 – 2020)
+
+Website Developer
+
+- Gathered requirements, designed, developed, and remotely administer desktop and mobile compliant website solution
+
+
+
+## Professional References
+<a name="references"> <a>
+
+|Contact    |Title  |Organization   |Phone  |
+|-|-|-|-|
+|Pilot Contact      |                       | Pilot Company, Knoxville TN       |   |
+|Pilot Contact      |                       | Pilot Company, Knoxville TN       |   |
+|Chief Ross Taylor  |Public Affairs Officer | USS Essex, San Diego CA           | \(480\) 253 – 8308 |
+|Christopher Fowler |Owner                  | Bear Down Brewery, San Diego CA   | \(920\) 205 – 8501 |
+|Kathleen Walk      | General Manager       | Hampton Inn & Suites              | \(818\) 597 – 0333 |
+
