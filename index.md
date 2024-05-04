@@ -47,7 +47,7 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
             <li>Worked directly with database and cloud administrators to migrate existing data and schemas from on-prem to cloud</li>
             <li>Performed requirements gathering and discovery for existing document ingestion pipeline</li>
             <li>Updated, refactored, or entirely rewrote (when necessary) approx. 40 distributed VBScript applications facilitating the traffic of documents into the archive across numerous on-prem and cloud networks</li>
-        </ul></details></ul>
+        </ul></details></li>
         <li>Performed virtual and in-person training for dozens of employees with varying technical abilities, spanning 4 enterprise verticals, on the use of the product</li>
         <li>Worked directly with the vendor on technical issues, troubleshooting outages, and performing minor version upgrades</li>
         <li>Actively perform technical and administrative support</li>
