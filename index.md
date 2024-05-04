@@ -99,9 +99,9 @@ Associate’s of Applied Science Degree In Software Development
 
 <details><summary>Game Developer</summary><ul>
     <li>Developed and published Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio<ul>
-        <li>[Subtractor](https://m6freeman.github.io/Subtractor), 2019</li>
-        <li>[Hyperlane](https://m6freeman.github.io/Hyperlane), 2016</li>
-        <li>[Porthole](https://m6freeman.github.io/Porthole), 2015</li>
+        <li><a href="https://m6freeman.github.io/Subtractor">Subtractor, 2019</a></li>
+        <li><a href="https://m6freeman.github.io/Hyperlane">Hyperlane, 2016</a></li>
+        <li><a href="https://m6freeman.github.io/Porthole">Porthole, 2015</a></li>
     </ul></li>
 </ul></details>
 
@@ -109,7 +109,7 @@ Associate’s of Applied Science Degree In Software Development
 
 <details><summary>Website Developer</summary><ul>
     <li>Gathered requirements, designed, developed, and remotely administer desktop and mobile compliant website solution</li>
-    <li>[Bear Down Brewery Demo](https://m6freeman.github.io/Bear-Down-Brewery)</li>
+    <li><a href="https://m6freeman.github.io/Bear-Down-Brewery">Bear Down Brewery, Demo</a></li>
 </ul></details>
 
 
