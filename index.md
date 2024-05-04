@@ -96,9 +96,10 @@ Associate’s of Applied Science Degree In Software Development
 
 Game Developer
 
-- Developed Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio
-- Published and maintained various game projects including Porthole on the Google Play Store
-- Conducted unit, functional, integration, and regression testing on all areas of applications
+- Developed and published Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio
+    - [Subtractor](https://m6freeman.github.io/Subtractor), 2019
+    - [Hyperlane](https://m6freeman.github.io/Hyperlane), 2016
+    - [Porthole](https://m6freeman.github.io/Porthole), 2015
 
 ### Bear Down Brewery LLC, San Diego CA (2019 – 2020)
 
