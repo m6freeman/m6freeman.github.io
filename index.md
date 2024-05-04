@@ -84,7 +84,7 @@ Guest Services Assistant
 ## Education 
 <a name="education"> <a>
 
-### California Institute of Art and Technology, San Diego CA (2019-2021)
+### California Institute of Art and Technology, San Diego CA (2019 – 2021)
 
 Associate’s of Applied Science Degree In Software Development
 
