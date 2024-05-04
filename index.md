@@ -35,7 +35,8 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
 
 .NET Development Engineer II
 
-- Financial Transformation Project
+- <summary>Financial Transformation Project</summary>
+<details>
     - Designed a prototype financial system integration and reporting solution and performed a demonstration of capabilities to executive leadership, ultimately resulting in the decision to not out-source the project
     - Performed requirements gathering and discovery for existing financial integrations for legacy system
     - Built a scalable integration pipeline using AWS Lambda, S3, SQS, and DynamoDb to perform ETL on hundreds of thousands of financial statements a month, spanning 30+ systems with numerous document formats
@@ -51,6 +52,7 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
     - Worked directly with the vendor on technical issues, troubleshooting outages, and performing minor version upgrades
     - Actively perform technical and administrative support
 - Introduce new features, modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy HR, Benefits, Payroll and Financial systems, including data distributing REST and SOAP APIs, and store and customer facing web interfaces
+</details>
 
 ### United States Navy, San Diego CA (2015 – 2019)
 
