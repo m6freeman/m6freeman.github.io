@@ -57,31 +57,31 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
 
 ### United States Navy, San Diego CA (2015 – 2019)
 
-Mass Communication Specialist 3rd Class (SW)
-
-- Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment
-- Designed publications and filmed/edited videos for military promotional use
-- Secret Clearance eligible
+<details><summary>Mass Communication Specialist 3rd Class (SW)</summary><ul>
+    <li>Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment</li>
+    <li>Designed publications and filmed/edited videos for military promotional use</li>
+    <li>Secret Clearance eligible</li>
+</ul></details>
 
 ### Independent Web Development, Thousand Oaks CA (2009 – 2015)
 
-Developer
-
-- Gathered requirements, designed, developed, and remotely administered multiple client websites
-- Worked with a team of three developers to create websites using PHP, HTML, CSS, JS, and MySQL
-- PHPMyAdmin experience and MySQL database troubleshooting
-- Optimized search engine optimization (SEO) with Google Adwords and Webmaster Tools
-- Managed web servers, domains and provided hosting for customers using CPanel
-- Diagnosed production impacting issues within LAMP (Linux/Apache/MySQL/PHP) environments such as UI issues, expired certificates, and hosting migration issues
-- Strong familiarity with CMS's such as Drupal and Wordpress
+<details><summary>Developer</summary><ul>
+    <li>Gathered requirements, designed, developed, and remotely administered multiple client websites</li>
+    <li>Worked with a team of three developers to create websites using PHP, HTML, CSS, JS, and MySQL</li>
+    <li>PHPMyAdmin experience and MySQL database troubleshooting</li>
+    <li>Optimized search engine optimization (SEO) with Google Adwords and Webmaster Tools</li>
+    <li>Managed web servers, domains and provided hosting for customers using CPanel</li>
+    <li>Diagnosed production impacting issues within LAMP (Linux/Apache/MySQL/PHP) environments such as UI issues, expired certificates, and hosting migration issues</li>
+    <li>Strong familiarity with CMS's such as Drupal and Wordpress</li>
+</ul></details>
 
 ### Hampton Inn, Agoura Hills CA (2008 – 2015)
 
-Guest Services Assistant
-
-- Managed room inventory through POS application
-- Trained new employees on POS applications and hotel policies
-- Preformed on-call maintenance to computers and room appliances
+<details><summary>Guest Services Assistant</summary><ul>
+    <li>Managed room inventory through POS application</li>
+    <li>Trained new employees on POS applications and hotel policies</li>
+    <li>Preformed on-call maintenance to computers and room appliances</li>
+</ul></details>
 
 
 ## Education 
@@ -97,19 +97,20 @@ Associate’s of Applied Science Degree In Software Development
 
 ### Whale Fall Studios, San Diego CA (2017 – 2021)
 
-Game Developer
-
-- Developed and published Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio
-    - [Subtractor](https://m6freeman.github.io/Subtractor), 2019
-    - [Hyperlane](https://m6freeman.github.io/Hyperlane), 2016
-    - [Porthole](https://m6freeman.github.io/Porthole), 2015
+<details><summary>Game Developer</summary><ul>
+    <li>Developed and published Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio<ul>
+        <li>[Subtractor](https://m6freeman.github.io/Subtractor), 2019</li>
+        <li>[Hyperlane](https://m6freeman.github.io/Hyperlane), 2016</li>
+        <li>[Porthole](https://m6freeman.github.io/Porthole), 2015</li>
+    </ul></li>
+</ul></details>
 
 ### Bear Down Brewery LLC, San Diego CA (2019 – 2020)
 
-Website Developer
-
-- Gathered requirements, designed, developed, and remotely administer desktop and mobile compliant website solution
-- [Bear Down Brewery Demo](https://m6freeman.github.io/Bear-Down-Brewery)
+<details><summary>Website Developer</summary><ul>
+    <li>Gathered requirements, designed, developed, and remotely administer desktop and mobile compliant website solution</li>
+    <li>[Bear Down Brewery Demo](https://m6freeman.github.io/Bear-Down-Brewery)</li>
+</ul></details>
 
 
 ## Professional References
