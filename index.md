@@ -106,6 +106,7 @@ Game Developer
 Website Developer
 
 - Gathered requirements, designed, developed, and remotely administer desktop and mobile compliant website solution
+- [Bear Down Brewery Demo](https://m6freeman.github.io/Bear-Down-Brewery target="_blank")
 
 
 ## Professional References
