@@ -1,7 +1,7 @@
 
 # Matthew Freeman
 
-[Summary](#summary) • [Technical Skills](#skills) • [Experience](#experience) • [Education](#education) • [Projects](#projects) • [References](#references) • [Github](https://github.com/m6freeman)
+[Summary](#summary) • [Technical Skills](#skills) • [Experience](#experience) • [Education](#education) • [Projects](#projects) • [References](#references) • [Github](https://github.com/m6freeman) [Source](https://github.com/m6freeman/m6freeman.github.io/index.md)
 
 Knoxville, TN • (805) 559-3116 • m6freeman@tuta.io
 
