@@ -56,7 +56,7 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
 
 Mass Communication Specialist 3rd Class (SW)
 
-- Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2017-18 Western Pacific deployment
+- Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment
 - Designed publications and filmed/edited videos for military promotional use
 - Secret Clearance eligible
 
