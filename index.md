@@ -33,26 +33,28 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
 
 ### Pilot Company, Knoxville TN (2021 - Present)
 
-<details>
-<summary>.NET Development Engineer II</summary>
+<details><summary>.NET Development Engineer II</summary><ul>
+    <li><details><summary>Financial Transformation Project</summary><ul>
+        <li>Designed a prototype financial system integration and reporting solution and performed a demonstration of capabilities to executive leadership, ultimately resulting in the decision to not out-source the project</li>
+        <li>Performed requirements gathering and discovery for existing financial integrations for legacy system</li>
+        <li>Built a scalable integration pipeline using AWS Lambda, S3, SQS, and DynamoDb to perform ETL on hundreds of thousands of financial statements a month, spanning 30+ systems with numerous document formats</li>
+        <li>Directly supported integration testing efforts alongside consultants and business partners</li>
+        <li>Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted</li>
+    </ul></details></li>
+    <li><details><summary>Lead engineer for enterprise document archive system Mobius 4.4 to 11.2</summary><ul>
+        <li><details><summary>Modernized the legacy HR and Financial document archive system</summary><ul>
+            <li>Installed new version of software across distributed network of AWS EC2 servers</li>
+            <li>Worked directly with database and cloud administrators to migrate existing data and schemas from on-prem to cloud</li>
+            <li>Performed requirements gathering and discovery for existing document ingestion pipeline</li>
+            <li>Updated, refactored, or entirely rewrote (when necessary) approx. 40 distributed VBScript applications facilitating the traffic of documents into the archive across numerous on-prem and cloud networks</li>
+        </ul></details></ul>
+        <li>Performed virtual and in-person training for dozens of employees with varying technical abilities, spanning 4 enterprise verticals, on the use of the product</li>
+        <li>Worked directly with the vendor on technical issues, troubleshooting outages, and performing minor version upgrades</li>
+        <li>Actively perform technical and administrative support</li>
+    </ul></details></li>
+    <li>Introduce new features, modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy HR, Benefits, Payroll and Financial systems, including data distributing REST and SOAP APIs, and store and customer facing web interfaces</li>
+</ul></details>
 
-- Financial Transformation Project
-    - Designed a prototype financial system integration and reporting solution and performed a demonstration of capabilities to executive leadership, ultimately resulting in the decision to not out-source the project
-    - Performed requirements gathering and discovery for existing financial integrations for legacy system
-    - Built a scalable integration pipeline using AWS Lambda, S3, SQS, and DynamoDb to perform ETL on hundreds of thousands of financial statements a month, spanning 30+ systems with numerous document formats
-    - Directly supported integration testing efforts alongside consultants and business partners
-    - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
-- Lead engineer for enterprise document archive system Mobius 4.4 to 11.2
-    - Modernized the legacy HR and Financial document archive system
-        - Installed new version of software across distributed network of AWS EC2 servers
-        - Worked directly with database and cloud administrators to migrate existing data and schemas from on-prem to cloud
-        - Performed requirements gathering and discovery for existing document ingestion pipeline
-        - Updated, refactored, or entirely rewrote (when necessary) approx. 40 distributed VBScript applications facilitating the traffic of documents into the archive across numerous on-prem and cloud networks
-    - Performed virtual and in-person training for dozens of employees with varying technical abilities, spanning 4 enterprise verticals, on the use of the product
-    - Worked directly with the vendor on technical issues, troubleshooting outages, and performing minor version upgrades
-    - Actively perform technical and administrative support
-- Introduce new features, modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy HR, Benefits, Payroll and Financial systems, including data distributing REST and SOAP APIs, and store and customer facing web interfaces
-</details>
 ### United States Navy, San Diego CA (2015 – 2019)
 
 Mass Communication Specialist 3rd Class (SW)
