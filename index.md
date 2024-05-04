@@ -1,10 +1,7 @@
----
-layout: home
----
 
 # Matthew Freeman
 
-[Summary](#summary) • [Technical Skills](#skills) • [Experience](#experience) • [Projects](#projects) • [References](#references) • [Github](https://github.com/m6freeman) • [LinkedIn](https://linkedin.com/in/m6freeman)
+[Summary](#summary) • [Technical Skills](#skills) • [Experience](#experience) • [Education](#education) • [Projects](#projects) • [References](#references) • [Github](https://github.com/m6freeman) • [LinkedIn](https://linkedin.com/in/m6freeman)
 
 Knoxville, TN • (805) 559-3116 • m6freeman@tuta.io • [https://mattfreeman.dev](https://mattfreeman.dev)
 
@@ -34,7 +31,7 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
 ## Experience
 <a name="experience"> <a>
 
-### Pilot Company, Knoxville, TN (2021 - Present)
+### Pilot Company, Knoxville TN (2021 - Present)
 
 .NET Development Engineer II
 
@@ -55,15 +52,15 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
     - Actively perform technical and administrative support
 - Introduce new features, modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy HR, Benefits, Payroll and Financial systems, including data distributing REST and SOAP APIs, and store and customer facing web interfaces
 
-### United States Navy, San Diego, CA (2015 – 2019)
+### United States Navy, San Diego CA (2015 – 2019)
 
 Mass Communication Specialist 3rd Class (SW)
 
-- Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2017-18 Western Pacific deployement.
+- Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2017-18 Western Pacific deployment
 - Designed publications and filmed/edited videos for military promotional use
 - Secret Clearance eligible
 
-### Independent Web Development, Thousand Oaks, CA (2009 – 2015)
+### Independent Web Development, Thousand Oaks CA (2009 – 2015)
 
 Developer
 
@@ -75,7 +72,7 @@ Developer
 - Diagnosed production impacting issues within LAMP (Linux/Apache/MySQL/PHP) environments such as UI issues, expired certificates, and hosting migration issues
 - Strong familiarity with CMS's such as Drupal and Wordpress
 
-### Hampton Inn, Agoura Hills, CA (2008 – 2015)
+### Hampton Inn, Agoura Hills CA (2008 – 2015)
 
 Guest Services Assistant
 
@@ -83,18 +80,27 @@ Guest Services Assistant
 - Trained new employees on POS applications and hotel policies
 - Preformed on-call maintenance to computers and room appliances
 
+
+## Education 
+<a name="education"> <a>
+
+### California Institute of Art and Technology, San Diego CA (2019-2021)
+
+Associate’s of Applied Science Degree In Software Development
+
+
 ## Projects 
 <a name="projects"> <a>
 
-### Whale Fall Studios, San Diego, CA (2017 – 2021)
+### Whale Fall Studios, San Diego CA (2017 – 2021)
 
 Game Developer
 
 - Developed Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio
-- Published and maintained various game projects including Porthole on the Google Play Store.
+- Published and maintained various game projects including Porthole on the Google Play Store
 - Conducted unit, functional, integration, and regression testing on all areas of applications
 
-### Bear Down Brewery LLC, San Diego, CA (2019 – 2020)
+### Bear Down Brewery LLC, San Diego CA (2019 – 2020)
 
 Website Developer
 
