@@ -18,7 +18,7 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
 <a name="skills"> <a>
 
 |Development Stack  |Enterprise Solutions   |Hobbyist   |
-|-|-|-|     
+|:-:|:-:|:-:|     
 |Python3.x, C#, Visual Basic    |AWS DynamoDb, EC2, Lambda, S3, SQS |Arch, Debian       |
 |.NET Framework 4.x - .NET6     |IIS for Windows Server             |Zsh, Bash, Tmux    |
 |ASP.NET MVC                    |Mobius 4.4, 11.2                   |Rust               |
