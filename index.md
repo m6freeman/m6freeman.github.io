@@ -3,7 +3,7 @@
 
 [Summary](#summary) • [Technical Skills](#skills) • [Experience](#experience) • [Education](#education) • [Projects](#projects) • [References](#references) • [Github](https://github.com/m6freeman) • [LinkedIn](https://linkedin.com/in/m6freeman)
 
-Knoxville, TN • (805) 559-3116 • m6freeman@tuta.io • [https://mattfreeman.dev](https://mattfreeman.dev)
+Knoxville, TN • (805) 559-3116 • m6freeman@tuta.io
 
 
 ## Summary
