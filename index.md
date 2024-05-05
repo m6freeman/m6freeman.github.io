@@ -58,7 +58,7 @@ Collaborates with all levels of personnel, senior leadership, and clients to fos
 ### United States Navy, San Diego CA (2015 – 2019)
 
 <details><summary>Mass Communication Specialist 3rd Class (SW)</summary><ul>
-    <li>Photographed, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment</li>
+    <li><a href="https://github.com/m6freeman/uss_essex_photos">Photographed</a>, filmed, journaled/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment</li>
     <li>Designed publications and filmed/edited videos for military promotional use</li>
     <li>Secret Clearance eligible</li>
 </ul></details>
