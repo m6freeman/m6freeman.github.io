@@ -118,6 +118,7 @@ Associate’s of Applied Science Degree In Software Development
 
 |Contact    |Title  |Organization   |Phone  |
 |-|-|-|-|
+|Karen McMickle | Pilot Company | kamcmickle@gmail 423596668
 |Chief Ross Taylor  |Public Affairs Officer |USS Essex, San Diego CA           |\(480\) 253 – 8308 |
 |Christopher Fowler |Owner                  |Bear Down Brewery, San Diego CA   |\(920\) 205 – 8501 |
 |Kathleen Walk      |General Manager        |Hampton Inn & Suites              |\(818\) 597 – 0333 |
