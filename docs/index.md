@@ -162,5 +162,5 @@ Strong technical background encompassing a variety of software and hardware tech
 ### Contact Information
 |Email|Phone|Github|XMPP|
 |-|-|-|-|
-|[m6freeman@tuta.io](mailto:m6freeman@tuta.io)|[8055593116](tel:+8055593116)|[m6freeman](https://github.com/m6freeman)|[hjkl@xmpp.jp](xmpp:hjkl@xmpp.jp)|
+|[m6freeman@tuta.io](mailto:m6freeman@tuta.io)|[8055593116](tel:+8055593116)|[m6freeman](https://github.com/m6freeman)|[hjkl@conversations.im](xmpp:hjkl@conversations.im)|
 
