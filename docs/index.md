@@ -154,8 +154,8 @@ Strong technical background encompassing a variety of software and hardware tech
 |Employer|Name|Role|Phone|Email|
 |-|-|-|-|-|
 |[Pilot Company](https://www.pilotcompany.com/)|Karen McMickle|Business Analyst|[4235966689](tel:+14235966689)|[kamcmickle@gmail.com](mailto:kamcmickle@gmail.com)|
-|[United States Navy](https://www.navy.mil/)|Chief Ross Taylor|Public Affairs Officer|[4802538308](tel:+14802538308)||
 |[Whale Fall Studios](https://m6freeman.itch.io/)|Bethany Glover|2D UI/UX Design|[6198061216](tel+6198061216)|[bethanyjglover@gmail.com](mailto:bethanyjglover@gmail.com)|
+|[United States Navy](https://www.navy.mil/)|Chief Ross Taylor|Public Affairs Officer|[4802538308](tel:+14802538308)||
 |[Bear Down Brewery, LLC](https://m6freeman.github.io/Bear-Down-Brewery/)|Christopher Fowler|Owner|[9202058501](tel:+19202058501)||
 |[Hampton Inn & Suites](https://www.hilton.com/en/hotels/agocahx-hampton-suites-agoura-hills/)|Kathleen Walk|General Manager|[8185970333](tel:+18185970333)||
 
