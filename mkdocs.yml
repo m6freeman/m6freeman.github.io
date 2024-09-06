@@ -1,0 +1,35 @@
+site_name: matthew_freeman(1) - software developer
+
+site_url:
+
+repo_url: https://github.com/m6freeman/mkdocs_resume
+repo_name: m6freeman/mkdocs_resume
+
+theme:
+  name: material
+  logo:
+  palette:
+    scheme: slate
+    primary: black
+    accent: indigo
+  font:
+    code: Roboto Mono
+  features:
+    - search.suggest    
+    - search.highlightgest
+    - toc.follow
+    - navigation.top
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/m6freeman
+    - icon: fontawesome/brands/linkedin
+      link: https://linked.in/m6freeman
