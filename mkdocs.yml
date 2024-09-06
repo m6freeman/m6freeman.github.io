@@ -3,7 +3,7 @@ site_name: matthew_freeman(1) - software developer
 site_url:
 
 repo_url: https://github.com/m6freeman/m6freeman.github.io
-repo_name: m6freeman/m6freeman.github.io
+repo_name: m6freeman.github.io
 
 theme:
   name: material
