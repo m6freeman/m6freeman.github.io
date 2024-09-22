@@ -37,23 +37,23 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ## OPTIONS
 
-`--cloud_developer`
+[`--cloud_developer`](#pilot-company-knoxville-tn-2021-present)
 
 > Designs and develops scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
 
-`--enthusiast`
+[`--enthusiast`](#california-institute-of-art-and-technology-san-diego-ca-2019-2021)
 
 > Enthusiastic about technologies with a heavy emphasis towards privacy, security, transparency, and decentralization.
 
-`--game_programmer`
+[`--game_programmer`](#whale-fall-studios-san-diego-ca-2015-2020)
 
 > Developed and published Android and Windows platform games with `Unity3D`, `C#`, `.NET Framework`, and `Visual Studio`
 
-`--professional`
+[`--professional`](#united-states-navy-san-diego-ca-2015-2019)
 
 > Collaborates with all levels of personnel, senior leadership, and clients to foster continuous improvement and enhance profitability.
 
-`--software_engineer`
+[`--software_engineer`](#pilot-company-knoxville-tn-2021-present)
 
 > Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits systems
 
@@ -61,7 +61,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **Pilot Company, Knoxville TN** *2021-present*  
 
-`mf --cloud_developer aws lambda python`
+[`mf --cloud_developer aws lambda python`](#options)
 
 #### .NET Development Engineer II
 
@@ -72,7 +72,7 @@ Strong technical background encompassing a variety of software and hardware tech
     - Directly supported integration testing efforts alongside consultants and business partners
     - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
 
-`mf --software_engineer enterprise_solutions dotnet`
+[`mf --software_engineer enterprise_solutions dotnet`](#options)
 
 #### .NET Development Engineer I
 
@@ -90,7 +90,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **California Institute of Art and Technology, San Diego CA** *2019-2021*  
 
-`mf --enthusiast`
+[`mf --enthusiast`](#options)
 
 ##### Associate’s of Applied Science Degree In Software Development
 
@@ -100,7 +100,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **Whale Fall Studios, San Diego CA** *2015-2020*  
 
-`mf --game_programmer`
+[`mf --game_programmer`](#options)
 
 #### Lead Programmer, Owner
 
@@ -113,7 +113,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **United States Navy, San Diego CA** *2015-2019*  
 
-`mf --professional | grep 'history'`
+[`mf --professional | grep 'history'`](#options)
 
 #### Mass Communication Specialist 3rd Class (SW)
 
