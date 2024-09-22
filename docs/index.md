@@ -118,7 +118,7 @@ Strong technical background encompassing a variety of software and hardware tech
 #### Mass Communication Specialist 3rd Class (SW)
 
 - Photographed, filmed, journal/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment aboard USS Essex (LHD-2) 
-- Designed publications and filmed/edited videos for military promotional use utilizing Adobe Photoshop, InDesign, and Premiere
+- Designed publications and filmed/edited videos for military promotional use utilizing `Adobe Photoshop`, `InDesign`, and `Premiere`
 - Secret Clearance eligible
 
 |Example|
