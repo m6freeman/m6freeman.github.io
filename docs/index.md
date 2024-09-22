@@ -59,11 +59,9 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ## EXAMPLES
 
-`mf --cloud_developer aws lambda python`
-
-`mf --software_engineer enterprise_solutions dotnet`
-
 ### **Pilot Company, Knoxville TN** *2021-present*  
+
+`mf --cloud_developer aws lambda python`
 
 #### .NET Development Engineer II
 
@@ -73,6 +71,11 @@ Strong technical background encompassing a variety of software and hardware tech
     - Built an event-driven data processing pipeline using AWS Lambda, S3, SQS, and DynamoDb to perform ETL on millions of financial statements a month, spanning 30+ systems with numerous document formats
     - Directly supported integration testing efforts alongside consultants and business partners
     - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
+
+`mf --software_engineer enterprise_solutions dotnet`
+
+#### .NET Development Engineer I
+
 - Lead Engineer for Enterprise Document Archive System Upgrade Mobius 4 to 11
     - Modernized the legacy HR and Financial document archive system
         - Installed new version of software across distributed network of AWS EC2 servers
@@ -85,11 +88,9 @@ Strong technical background encompassing a variety of software and hardware tech
 - Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with dotnet framework 4.x to dotnet 6, Powershell, and VB
 - Maintain and distribute REST and SOAP APIs, and store and customer facing web interfaces with ASP.NET MVC
 
-
-<br>
-`mf --enthusiast`
-
 ### **California Institute of Art and Technology, San Diego CA** *2019-2021*  
+
+`mf --enthusiast`
 
 ##### Associate’s of Applied Science Degree In Software Development
 
@@ -97,11 +98,9 @@ Strong technical background encompassing a variety of software and hardware tech
 |-|-|
 | [Courses](https://github.com/m6freeman/ciat/) | [ASD Program Overview](https://www.ciat.edu/wp-content/uploads/2024/07/ASD-Software-Development-CIAT-2024-Program-Guide.pdf) |
 
-
-<br>
-`mf --game_programmer`
-
 ### **Whale Fall Studios, San Diego CA** *2015-2020*  
+
+`mf --game_programmer`
 
 #### Lead Programmer, Owner
 
@@ -112,11 +111,9 @@ Strong technical background encompassing a variety of software and hardware tech
 |-|-|-|
 |[Subtractor, 2019](https://m6freeman.github.io/Subtractor) |[Hyperlane, 2016](https://m6freeman.github.io/Hyperlane) |[Porthole, 2015](https://m6freeman.github.io/Porthole)|
 
-
-<br/>
-`mf --professional | grep 'history'`
-
 ### **United States Navy, San Diego CA** *2015-2019*  
+
+`mf --professional | grep 'history'`
 
 #### Mass Communication Specialist 3rd Class (SW)
 
@@ -147,6 +144,7 @@ Strong technical background encompassing a variety of software and hardware tech
 - Managed room inventory through POS application
 - Trained new employees on POS applications and hotel policies
 - Performed on-call maintenance to computers and room appliances
+
 ## SEE ALSO
 
 ### Professional References
