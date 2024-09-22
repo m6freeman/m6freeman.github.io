@@ -39,7 +39,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 `--cloud_developer`
 
-> Designs and develops scalable enterprise solutions within AWS using API Gateway, DynamoDb, EC2, Lambda, S3, SNS, and SQS
+> Designs and develops scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
 
 `--enthusiast`
 
@@ -47,7 +47,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 `--game_programmer`
 
-> Developed and published Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio
+> Developed and published Android and Windows platform games with `Unity3D`, `C#`, `.NET Framework`, and `Visual Studio`
 
 `--professional`
 
@@ -68,7 +68,7 @@ Strong technical background encompassing a variety of software and hardware tech
 - Financial Transformation Project
     - Designed a prototype financial system integration and reporting solution and performed a demonstration of capabilities to executive leadership, ultimately resulting in the decision to not out-source the project
     - Performed requirements gathering and discovery for existing financial integrations for legacy system
-    - Built an event-driven data processing pipeline using AWS Lambda, S3, SQS, and DynamoDb to perform ETL on millions of financial statements a month, spanning 30+ systems with numerous document formats
+    - Built an event-driven data processing pipeline using `AWS Lambda`, `S3`, `SQS`, and `DynamoDb` to perform ETL on millions of financial statements a month, spanning 30+ systems with numerous document formats
     - Directly supported integration testing efforts alongside consultants and business partners
     - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
 
@@ -78,15 +78,15 @@ Strong technical background encompassing a variety of software and hardware tech
 
 - Lead Engineer for Enterprise Document Archive System Upgrade Mobius 4 to 11
     - Modernized the legacy HR and Financial document archive system
-        - Installed new version of software across distributed network of AWS EC2 servers
+        - Installed new version of software across distributed network of `AWS EC2` servers
         - Worked directly with database and cloud administrators to migrate existing data and schemas from on-prem to cloud
         - Performed requirements gathering and discovery for existing document ingestion pipeline
-        - Updated, refactored, or entirely rewrote (when necessary) approx. 40 distributed VBScript applications facilitating the traffic of documents into the archive across numerous on-prem and cloud networks
+        - Updated, refactored, or entirely rewrote (when necessary) approx. 40 distributed `VBScript` applications facilitating the traffic of documents into the archive across numerous on-prem and cloud networks
     - Performed virtual and in-person training for dozens of employees with varying technical abilities, spanning 4 enterprise verticals, on the use of the product
     - Worked directly with the vendor on technical issues, troubleshooting outages, and performing minor version upgrades
     - Actively perform technical and administrative support
-- Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with dotnet framework 4.x to dotnet 6, Powershell, and VB
-- Maintain and distribute REST and SOAP APIs, and store and customer facing web interfaces with ASP.NET MVC
+- Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with `dotnet framework 4.x` to `dotnet6`, `Powershell`, and `VB`
+- Maintain and distribute `REST` and `SOAP` APIs, and store and customer facing web interfaces with `ASP.NET MVC`
 
 ### **California Institute of Art and Technology, San Diego CA** *2019-2021*  
 
@@ -104,7 +104,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 #### Lead Programmer, Owner
 
-- Developed and published Android and Windows platform games with Unity3D, C#, .NET Framework, and Visual Studio
+- Developed and published `Android` and `Windows` platform games with `Unity3D`, `C#`, `.NET Framework`, and `Visual Studio`
 - Worked directly alongside UI/UX designers and 3D asset animators.
 
 |Example|||
@@ -130,8 +130,8 @@ Strong technical background encompassing a variety of software and hardware tech
 #### Web Developer
 
 - Gathered requirements, designed, developed, and remotely administered multiple client websites
-- Worked with a team of three developers to provide static and dynamic website solutions using Drupal, Wordpress, PHP, HTML, CSS, JS, and MySQL
-- Diagnosed production impacting issues within LAMP (Linux/Apache/MySQL/PHP) environments such as UI issues, expired certificates, and hosting migration issues
+- Worked with a team of three developers to provide static and dynamic website solutions using `Drupal`, `Wordpress`, `PHP`, `HTML`, `CSS`, `JS`, and `MySQL`
+- Diagnosed production impacting issues within `LAMP (Linux/Apache/MySQL/PHP)` environments such as UI issues, expired certificates, and hosting migration issues
 
 |Example|
 ||
