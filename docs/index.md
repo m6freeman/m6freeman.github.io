@@ -41,7 +41,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 > Designs and develops scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
 
-[`--enthusiast`](#california-institute-of-art-and-technology-san-diego-ca-2019-2021)
+[`--enthusiast`](#california-institute-of-applied-technology-san-diego-ca-2019-2021)
 
 > Enthusiastic about technologies with a heavy emphasis towards privacy, security, transparency, and decentralization.
 
@@ -88,7 +88,7 @@ Strong technical background encompassing a variety of software and hardware tech
 - Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with `dotnet framework 4.x` to `dotnet6`, `Powershell`, and `VB`
 - Maintain and distribute `REST` and `SOAP` APIs, and store and customer facing web interfaces with `ASP.NET MVC`
 
-### **California Institute of Art and Technology, San Diego CA** *2019-2021*  
+### **California Institute of Applied Technology, San Diego CA** *2019-2021*  
 
 [`mf --enthusiast`](#options)
 
