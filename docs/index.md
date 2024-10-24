@@ -19,7 +19,7 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`mf --cloud_developer aws [dynamodb ec2 lambda [dotnet python] s3 sqs]`
+`mf --serverless_developer aws [dynamodb ec2 lambda [dotnet python] s3 sqs]`
 
 `mf --enthusiast linux [arch debian rhel] open_source rust vim`
 
@@ -31,13 +31,13 @@ All unsaved progress will be lost.
 
 ## DESCRIPTION
 
-Actively develops event-driven, microservice-architectured enterprise cloud solutions and supports legacy corporate infrastructure.
+Actively develops event-driven, microservice-architectured enterprise serverless cloud solutions and supports legacy corporate infrastructure.
 
 Strong technical background encompassing a variety of software and hardware technologies.
 
 ## OPTIONS
 
-[`--cloud_developer`](#pilot-company-knoxville-tn-2021-present)
+[`--serverless_developer`](#pilot-company-knoxville-tn-2021-present)
 
 > Designs and develops scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
 
@@ -61,7 +61,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **Pilot Company, Knoxville TN** *2021-present*  
 
-[`mf --cloud_developer aws lambda python`](#options)
+[`mf --serverless_developer aws lambda python`](#options)
 
 #### .NET Development Engineer II
 
