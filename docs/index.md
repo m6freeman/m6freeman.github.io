@@ -31,7 +31,7 @@ All unsaved progress will be lost.
 
 ## DESCRIPTION
 
-Actively develops and publishes microservice-architectured, data driven, enterprise cloud solutions and supports legacy corporate infrastructure.
+Actively develops event-driven, microservice-architectured enterprise cloud solutions and supports legacy corporate infrastructure.
 
 Strong technical background encompassing a variety of software and hardware technologies.
 
