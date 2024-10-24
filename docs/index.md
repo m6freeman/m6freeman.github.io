@@ -37,10 +37,6 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ## OPTIONS
 
-[`--serverless_developer`](#pilot-company-knoxville-tn-2021-present)
-
-> Designs and develops scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
-
 [`--enthusiast`](#california-institute-of-applied-technology-san-diego-ca-2019-2021)
 
 > Enthusiastic about technologies with a heavy emphasis towards privacy, security, transparency, and decentralization.
@@ -52,6 +48,10 @@ Strong technical background encompassing a variety of software and hardware tech
 [`--professional`](#united-states-navy-san-diego-ca-2015-2019)
 
 > Collaborates with all levels of personnel, senior leadership, and clients to foster continuous improvement and enhance profitability.
+
+[`--serverless_developer`](#pilot-company-knoxville-tn-2021-present)
+
+> Designs and develops scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
 
 [`--software_engineer`](#pilot-company-knoxville-tn-2021-present)
 
