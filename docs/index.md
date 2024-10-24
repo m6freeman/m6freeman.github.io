@@ -19,13 +19,13 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`mf --serverless_developer aws [dynamodb ec2 lambda [dotnet python] s3 sqs]`
-
 `mf --enthusiast linux [arch debian rhel] open_source rust vim`
 
 `mf --game_programmer unity [c#]`
 
 `mf --professional agile confluence infor [fsm ghr lawson] jira scrum`
+
+`mf --serverless_developer aws [dynamodb ec2 lambda [dotnet python] s3 sqs]`
 
 `mf --software_engineer dotnet [core framework] git iis_for_windows_server ms_sql_server`
 
