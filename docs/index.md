@@ -25,9 +25,9 @@ All unsaved progress will be lost.
 
 `mf --professional agile confluence infor [fsm ghr lawson] jira scrum`
 
-`mf --serverless_developer aws [cdk dynamodb ec2 lambda [dotnet python] s3 sam sqs]`
+`mf --serverless_developer aws [cdk dynamodb ec2 lambda [c# dotnet python] s3 sam sqs]`
 
-`mf --software_engineer dotnet [core framework] git iis_for_windows_server ms_sql_server`
+`mf --software_engineer c# dotnet [core framework] git iis_for_windows_server ms_sql_server`
 
 ## DESCRIPTION
 
@@ -61,7 +61,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **Pilot Company, Knoxville TN** *2021-present*  
 
-[`mf --serverless_developer aws lambda python`](#options)
+[`mf --serverless_developer aws c# dotnet lambda python`](#options)
 
 #### .NET Development Engineer II
 
@@ -72,7 +72,7 @@ Strong technical background encompassing a variety of software and hardware tech
     - Directly supported integration testing efforts alongside consultants and business partners
     - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
 
-[`mf --software_engineer enterprise_solutions dotnet`](#options)
+[`mf --software_engineer enterprise_solutions c# dotnet`](#options)
 
 #### .NET Development Engineer I
 
@@ -85,7 +85,7 @@ Strong technical background encompassing a variety of software and hardware tech
     - Performed virtual and in-person training for dozens of employees with varying technical abilities, spanning 4 enterprise verticals, on the use of the product
     - Worked directly with the vendor on technical issues, troubleshooting outages, and performing minor version upgrades
     - Actively perform technical and administrative support
-- Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with `dotnet framework 4.x` to `dotnet6`, `Powershell`, and `VB`
+- Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with `dotnet framework 4.x` to `dotnet8`, `Powershell`, and `VB`
 - Maintain and distribute `REST` and `SOAP` APIs, and store and customer facing web interfaces with `ASP.NET MVC`
 
 ### **California Institute of Applied Technology, San Diego CA** *2019-2021*  
@@ -151,6 +151,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 |Employer|Name|Role|Phone|Email|
 |-|-|-|-|-|
+|Pilot Company|Joseph Cuevas|Cloud Engineer III|[3344888796](tel:+13344888796)|[joseph.cuevas6758@gmail.com](mailto:joseph.cuevas6758@gmail.com)|
 |[Pilot Company](https://www.pilotcompany.com/)|Karen McMickle|Business Analyst|[4235966689](tel:+14235966689)|[kamcmickle@gmail.com](mailto:kamcmickle@gmail.com)|
 |[Whale Fall Studios](https://m6freeman.itch.io/)|Bethany Glover|2D UI/UX Design|[6198061216](tel:+6198061216)|[bethanyjglover@gmail.com](mailto:bethanyjglover@gmail.com)|
 |[United States Navy](https://www.navy.mil/)|Chief Ross Taylor|Public Affairs Officer|[4802538308](tel:+14802538308)||
