@@ -158,7 +158,7 @@ Strong technical background encompassing a variety of software and hardware tech
 |[Hampton Inn & Suites](https://www.hilton.com/en/hotels/agocahx-hampton-suites-agoura-hills/)|Kathleen Walk|General Manager|[8185970333](tel:+18185970333)||
 
 ### Contact Information
-|Email|Phone|Github|XMPP|
-|-|-|-|-|
-|[m6freeman@tuta.io](mailto:m6freeman@tuta.io)|[3322690095](tel:+3322690095)|[m6freeman](https://github.com/m6freeman)|[hjkl@conversations.im](xmpp:hjkl@conversations.im)|
+|Email|Phone|XMPP|
+|-|-|-|
+|[m6freeman@tuta.io](mailto:m6freeman@tuta.io)|[3322690095](tel:+3322690095)|[hjkl@conversations.im](xmpp:hjkl@conversations.im)|
 
