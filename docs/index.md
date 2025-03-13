@@ -23,7 +23,7 @@ All unsaved progress will be lost.
 
 `mf --game_programmer unity [c#]`
 
-`mf --professional agile confluence infor [fsm ghr lawson] jira scrum`
+`mf --professional agile confluence infor [fsm ghr ion lawson] jira scrum`
 
 `mf --serverless_developer aws [cdk dynamodb ec2 lambda [c# dotnet python] s3 sam sqs]`
 
