@@ -19,15 +19,15 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`mf --enthusiast linux [arch debian rhel] neovim open_source rust`
+`mf --enthusiast linux [arch debian rhel] neovim ocaml open_source rust`
 
 `mf --game_programmer unity [c#]`
 
 `mf --professional agile confluence infor [fsm ghr ion lawson] jira scrum`
 
-`mf --serverless_developer aws [cdk dynamodb ec2 lambda [c# dotnet python] s3 sam sqs]`
+`mf --serverless_developer aws [dynamodb ec2 eventbridge lambda [dotnet python] s3 sam ses sns sqs]`
 
-`mf --software_engineer c# dotnet [core framework] git iis_for_windows_server ms_sql_server`
+`mf --software_engineer c# dotnet [core framework] git iis_for_windows_server ms_sql_server python`
 
 ## DESCRIPTION
 
