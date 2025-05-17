@@ -4,8 +4,6 @@ hide:
   - path
 ---
 
-# matthew_freeman(1) - software developer
-
 ``` plaintext
 Are you sure you want to quit?
 All unsaved progress will be lost.

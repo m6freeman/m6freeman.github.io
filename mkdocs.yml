@@ -6,23 +6,28 @@ repo_url: https://github.com/m6freeman/m6freeman.github.io
 repo_name: m6freeman.github.io
 
 theme:
-  name: material
+  name: terminal
   logo:
-  palette:
-    scheme: slate
-    primary: black
-    accent: indigo
+  palette: gruvbox_dark
   font:
-    code: Roboto Mono
+    code: Consolas
   features:
     - search.suggest    
     - search.highlightgest
     - toc.follow
-    - navigation.top
+    - navigation.side.hide
+    - navigation.side.indexes
+    - navigation.side.toc.show
+    - navigation.top.show
+    - navigation.top.cursor_animation.show
+    - navigation.top.search_button.show
+    - revision.date.show
+    - revision.history.show
+    - style.links.underline.hide
 
 markdown_extensions:
   - toc:
-      toc_depth: 3
+      toc_depth: 2
 
 plugins:
   - search
