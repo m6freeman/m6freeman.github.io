@@ -13,7 +13,7 @@ All unsaved progress will be lost.
 
 ## NAME
 
-**matthew_freeman** - software developer
+**matthew_freeman** - software engineer
 
 ## SYNOPSIS
 
