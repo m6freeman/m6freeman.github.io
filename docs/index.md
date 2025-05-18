@@ -66,9 +66,10 @@ Strong technical background encompassing a variety of software and hardware tech
 - Financial Transformation Project
     - Designed a prototype financial system integration and reporting solution and performed a demonstration of capabilities to executive leadership, ultimately resulting in the decision to not out-source the project
     - Performed requirements gathering and discovery for existing financial integrations for legacy system
-    - Built an event-driven data processing pipeline using `AWS Lambda`, `S3`, `SQS`, and `DynamoDb` to perform ETL on millions of financial statements a month, spanning 30+ systems with numerous document formats
+    - Built an event-driven data processing pipeline using `AWS Lambda`, `S3`, `SQS`, and `DynamoDb` to perform ETL on millions of financial records a month, spanning 30+ systems with numerous document formats
     - Directly supported integration testing efforts alongside consultants and business partners
     - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
+    - Assisted in hyper-care efforts after initial go-live, directly assisting Accounts Payable, Accounts Recievable, and Corporate Accounting personnel troubleshoot system automation and data integration related tickets
 
 [`mf --software_engineer enterprise_solutions c# dotnet`](#options)
 
