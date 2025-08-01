@@ -93,9 +93,9 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ##### Associate’s of Applied Science Degree In Software Development
 
-|Example||
-|-|-|
-| [Courses](https://github.com/m6freeman/ciat/) | [ASD Program Overview](https://www.ciat.edu/wp-content/uploads/2024/07/ASD-Software-Development-CIAT-2024-Program-Guide.pdf) |
+| Example | |
+|:-|:-|
+| [Courses](https://github.com/m6freeman/ciat/)  | [ASD Program Overview](https://www.ciat.edu/wp-content/uploads/2024/07/ASD-Software-Development-CIAT-2024-Program-Guide.pdf)  |
 
 ### **Whale Fall Studios, San Diego CA** *2015-2020*  
 
@@ -106,13 +106,13 @@ Strong technical background encompassing a variety of software and hardware tech
 - Developed and published `Android` and `Windows` platform games with `Unity3D`, `C#`, `.NET Framework`, and `Visual Studio`
 - Worked directly alongside UI/UX designers and 3D asset animators.
 
-|Example|||
-|-|-|-|
-|[Subtractor, 2019](https://m6freeman.github.io/Subtractor) |[Hyperlane, 2016](https://m6freeman.github.io/Hyperlane) |[Porthole, 2015](https://m6freeman.github.io/Porthole)|
+| Example | | |
+|:-|:-|:-|
+| [Subtractor, 2019](https://m6freeman.github.io/Subtractor)  | [Hyperlane, 2016](https://m6freeman.github.io/Hyperlane)  | [Porthole, 2015](https://m6freeman.github.io/Porthole) | 
 
 ### **United States Navy, San Diego CA** *2015-2019*  
 
-[`mf --professional | grep 'history'`](#options)
+[`mf --professional  | grep 'history'`](#options)
 
 #### Mass Communication Specialist 3rd Class (SW)
 
@@ -120,9 +120,9 @@ Strong technical background encompassing a variety of software and hardware tech
 - Designed publications and filmed/edited videos for military promotional use utilizing `Adobe Photoshop`, `InDesign`, and `Premiere`
 - Secret Clearance eligible
 
-|Example|
-||
-| [Photography USS Essex (LHD-2) 2017-2019](https://github.com/m6freeman/uss_essex_photos) |
+| Example |
+|:-|
+| [Photography USS Essex (LHD-2) 2017-2019](https://github.com/m6freeman/uss_essex_photos)  |
 
 ### **Independent Web Development, Thousand Oaks CA** *2009–2015*
 
@@ -132,9 +132,9 @@ Strong technical background encompassing a variety of software and hardware tech
 - Worked with a team of three developers to provide static and dynamic website solutions using `Drupal`, `Wordpress`, `PHP`, `HTML`, `CSS`, `JS`, and `MySQL`
 - Diagnosed production impacting issues within `LAMP (Linux/Apache/MySQL/PHP)` environments such as UI issues, expired certificates, and hosting migration issues
 
-|Example|
-||
-| [Stroke of Color, Commercial and Residential Painting Services](https://web.archive.org/web/20141217125309/http://mindysstrokeofcolor.com/) |
+| Example |
+|:-|
+| [Stroke of Color, Commercial and Residential Painting Services](https://web.archive.org/web/20141217125309/http://mindysstrokeofcolor.com/)  |
 
 ### **Hampton Inn, Agoura Hills CA** *2008–2015*  
 
@@ -148,16 +148,16 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### Professional References
 
-|Employer|Name|Role|Phone|Email|
-|-|-|-|-|-|
-|[Pilot Company](https://www.pilotcompany.com/)|Joseph Cuevas|Cloud Engineer III|[3344888796](tel:+13344888796)|[joseph.cuevas6758@gmail.com](mailto:joseph.cuevas6758@gmail.com)|
-|[Pilot Company](https://www.pilotcompany.com/)|Karen McMickle|Business Analyst|[4235966689](tel:+14235966689)|[kamcmickle@gmail.com](mailto:kamcmickle@gmail.com)|
-|[Whale Fall Studios](https://m6freeman.itch.io/)|Bethany Glover|2D UI/UX Design|[6198061216](tel:+6198061216)|[bethanyjglover@gmail.com](mailto:bethanyjglover@gmail.com)|
-|[United States Navy](https://www.navy.mil/)|Chief Ross Taylor|Public Affairs Officer|[4802538308](tel:+14802538308)||
-|[Hampton Inn & Suites](https://www.hilton.com/en/hotels/agocahx-hampton-suites-agoura-hills/)|Kathleen Walk|General Manager|[8185970333](tel:+18185970333)||
+|Employer |Name |Role |Phone |Email |
+|:-|:-|:-|:-|:-|
+|[Pilot Company](https://www.pilotcompany.com/) |Joseph Cuevas |Cloud Engineer III |[3344888796](tel:+13344888796) |[joseph.cuevas6758@gmail.com](mailto:joseph.cuevas6758@gmail.com) |
+|[Pilot Company](https://www.pilotcompany.com/) |Karen McMickle |Business Analyst |[4235966689](tel:+14235966689) |[kamcmickle@gmail.com](mailto:kamcmickle@gmail.com) |
+|[Whale Fall Studios](https://m6freeman.itch.io/) |Bethany Glover |2D UI/UX Design |[6198061216](tel:+6198061216) |[bethanyjglover@gmail.com](mailto:bethanyjglover@gmail.com) |
+|[United States Navy](https://www.navy.mil/) |Chief Ross Taylor |Public Affairs Officer |[4802538308](tel:+14802538308) | |
+|[Hampton Inn & Suites](https://www.hilton.com/en/hotels/agocahx-hampton-suites-agoura-hills/) |Kathleen Walk |General Manager |[8185970333](tel:+18185970333) | |
 
 ### Contact Information
-|Email|Phone|XMPP|
-|-|-|-|
-|[m6freeman@tuta.io](mailto:m6freeman@tuta.io)|[3322690095](tel:+3322690095)|[hjkl@conversations.im](xmpp:hjkl@conversations.im)|
+|Email |Phone |XMPP |
+|:-|:-|:-|
+|[m6freeman@tuta.io](mailto:m6freeman@tuta.io) |[3322690095](tel:+3322690095) |[hjkl@conversations.im](xmpp:hjkl@conversations.im) |
 
