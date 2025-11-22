@@ -59,7 +59,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **Pilot Company, Knoxville TN** *2021-present*  
 
-[`mf --serverless_developer aws c# dotnet lambda python`](#options)
+[`mf --serverless_developer aws c# docker dotnet github_actions python terraform`](#options)
 
 #### .NET Development Engineer II
 
@@ -72,7 +72,7 @@ Strong technical background encompassing a variety of software and hardware tech
     - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
     - Assisted in hyper-care efforts after initial go-live, directly assisting Accounts Payable, Accounts Recievable, and Corporate Accounting personnel troubleshoot system automation and data integration related tickets
 
-[`mf --software_engineer enterprise_solutions c# dotnet`](#options)
+[`mf --software_engineer c# dotnet enterprise_solutions`](#options)
 
 #### .NET Development Engineer I
 
