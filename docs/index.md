@@ -21,9 +21,9 @@ All unsaved progress will be lost.
 
 `mf --game_programmer unity [c#]`
 
-`mf --professional agile confluence infor [fsm ghr ion lawson] jira scrum`
+`mf --professional agile confluence infor [fsm ghr ionapi lawson] jira scrum`
 
-`mf --serverless_developer aws [dynamodb ec2 eventbridge lambda [dotnet python] s3 sam ses sns sqs]`
+`mf --serverless_developer aws [dynamodb ec2 ecr ecs eventbridge lambda [dotnet python] s3 ses sns sqs] docker github_actions terraform`
 
 `mf --software_engineer c# dotnet [core framework] git iis_for_windows_server ms_sql_server python`
 
@@ -49,7 +49,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 [`--serverless_developer`](#pilot-company-knoxville-tn-2021-present)
 
-> Designs and develops scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
+> Designs, develops, and deploys scalable enterprise solutions within `AWS` using `API Gateway`, `DynamoDb`, `EC2`, `Lambda`, `S3`, `SNS`, and `SQS`
 
 [`--software_engineer`](#pilot-company-knoxville-tn-2021-present)
 
@@ -63,6 +63,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 #### .NET Development Engineer II
 
+- Designs, develops, deploys, and continuously integrates `Dotnet` and `Python` serverless solutions, as well as containerized solutions alongside `Docker`, `ECR`, and `ECS`, with `Terraform` provisioned by `Github Action`
 - Financial Transformation Project
     - Designed a prototype financial system integration and reporting solution and performed a demonstration of capabilities to executive leadership, ultimately resulting in the decision to not out-source the project
     - Performed requirements gathering and discovery for existing financial integrations for legacy system
@@ -80,12 +81,12 @@ Strong technical background encompassing a variety of software and hardware tech
         - Installed new version of software across distributed network of `AWS EC2` servers
         - Worked directly with database and cloud administrators to migrate existing data and schemas from on-prem to cloud
         - Performed requirements gathering and discovery for existing document ingestion pipeline
-        - Updated, refactored, or entirely rewrote (when necessary) approx. 40 distributed `VBScript` applications facilitating the traffic of documents into the archive across numerous on-prem and cloud networks
+        - Updated, refactored, or entirely rewrote (when necessary) approx. 40 distributed `VB.NET` applications facilitating the traffic of documents into the archive across numerous on-prem and remote networks
     - Performed virtual and in-person training for dozens of employees with varying technical abilities, spanning 4 enterprise verticals, on the use of the product
     - Worked directly with the vendor on technical issues, troubleshooting outages, and performing minor version upgrades
     - Actively perform technical and administrative support
-- Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with `dotnet framework 4.x` to `dotnet8`, `Powershell`, and `VB`
-- Maintain and distribute `REST` and `SOAP` APIs, and store and customer facing web interfaces with `ASP.NET MVC`
+- Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with `dotnet framework 4.x` to `dotnet8`, `Powershell`, and `VB.NET`
+- Maintain and distribute `REST` and `SOAP` APIs, and customer facing web interfaces with `ASP.NET MVC`
 
 ### **California Institute of Applied Technology, San Diego CA** *2019-2021*  
 
