@@ -110,7 +110,9 @@ Strong technical background encompassing a variety of software and hardware tech
 
 | Example | | |
 |:-|:-|:-|
-| [Subtractor, 2019](https://m6freeman.github.io/Subtractor)  | [Hyperlane, 2016](https://m6freeman.github.io/Hyperlane)  | [Porthole, 2015](https://m6freeman.github.io/Porthole) | 
+| 2019 | [Subtractor](https://m6freeman.github.io/Subtractor) | [github.com/m6freeman/subtractor](https://github.com/m6freeman/Subtractor) |
+| 2016 | [Hyperlane](https://m6freeman.github.io/Hyperlane)  |  [github.com/m6freeman/hyperlane](https://github.com/m6freeman/Hyperlane) |
+| 2015 | [Porthole](https://m6freeman.github.io/Porthole) | [github.com/m6freeman/porthole](https://github.com/m6freeman/Porthole) |
 
 ### **United States Navy, San Diego CA** *2015-2019*  
 
