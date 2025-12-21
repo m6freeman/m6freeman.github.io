@@ -59,7 +59,9 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **Pilot Company, Knoxville TN** *2021-present*  
 
-[`mf --serverless_developer aws c# docker dotnet github_actions python terraform`](#options)
+[`mf --serverless_developer aws dotnet github_actions python terraform`](#options)
+
+[`mf --software_engineer c# docker dotnet enterprise_solutions`](#options)
 
 #### .NET Development Engineer II
 
@@ -71,8 +73,6 @@ Strong technical background encompassing a variety of software and hardware tech
     - Directly supported integration testing efforts alongside consultants and business partners
     - Provided business and diagnostic related data to a web front-end used by various levels of support as well as the business for reporting and to understand real-time metrics for financial records as they are submitted
     - Assisted in hyper-care efforts after initial go-live, directly assisting Accounts Payable, Accounts Recievable, and Corporate Accounting personnel troubleshoot system automation and data integration related tickets
-
-[`mf --software_engineer c# dotnet enterprise_solutions`](#options)
 
 #### .NET Development Engineer I
 
@@ -106,6 +106,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 - Developed and published `Android` and `Windows` platform games with `Unity3D`, `C#`, `.NET Framework`, and `Visual Studio`
 - Worked directly alongside UI/UX designers and 3D asset animators.
+<br>
 
 | Example | | |
 |:-|:-|:-|
@@ -120,6 +121,7 @@ Strong technical background encompassing a variety of software and hardware tech
 - Photographed, filmed, journal/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment aboard USS Essex (LHD-2) 
 - Designed publications and filmed/edited videos for military promotional use utilizing `Adobe Photoshop`, `InDesign`, and `Premiere`
 - Secret Clearance eligible
+<br>
 
 | Example |
 |:-|
@@ -132,6 +134,7 @@ Strong technical background encompassing a variety of software and hardware tech
 - Gathered requirements, designed, developed, and remotely administered multiple client websites
 - Worked with a team of three developers to provide static and dynamic website solutions using `Drupal`, `Wordpress`, `PHP`, `HTML`, `CSS`, `JS`, and `MySQL`
 - Diagnosed production impacting issues within `LAMP (Linux/Apache/MySQL/PHP)` environments such as UI issues, expired certificates, and hosting migration issues
+<br>
 
 | Example |
 |:-|
@@ -158,6 +161,7 @@ Strong technical background encompassing a variety of software and hardware tech
 |[Hampton Inn & Suites](https://www.hilton.com/en/hotels/agocahx-hampton-suites-agoura-hills/) |Kathleen Walk |General Manager |[8185970333](tel:+18185970333) | |
 
 ### Contact Information
+
 |Email |Phone |XMPP |
 |:-|:-|:-|
 |[m6freeman@tuta.io](mailto:m6freeman@tuta.io) |[3322690095](tel:+3322690095) |[hjkl@conversations.im](xmpp:hjkl@conversations.im) |
