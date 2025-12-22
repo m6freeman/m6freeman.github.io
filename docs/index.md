@@ -125,9 +125,9 @@ Strong technical background encompassing a variety of software and hardware tech
 - Secret Clearance eligible
 <br>
 
-| Example |
-|:-|
-| [Photography USS Essex (LHD-2) 2017-2019](https://github.com/m6freeman/uss_essex_photos)  |
+| Example | |
+|:-|:-|
+| 2018-19 | [USS Essex Westpac](https://github.com/m6freeman/uss_essex_photos)  |
 
 ### **Independent Web Development, Thousand Oaks CA** *2009–2015*
 
