@@ -17,7 +17,7 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`testing mf --enthusiast linux [arch debian rhel] neovim ocaml open_source rust`
+`mf --enthusiast linux [arch debian rhel] neovim ocaml open_source rust`
 
 `mf --game_programmer unity [c#]`
 
