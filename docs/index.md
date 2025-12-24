@@ -138,9 +138,9 @@ Strong technical background encompassing a variety of software and hardware tech
 - Diagnosed production impacting issues within `LAMP (Linux/Apache/MySQL/PHP)` environments such as UI issues, expired certificates, and hosting migration issues
 <br>
 
-| Example |
-|:-|
-| [Stroke of Color, Commercial and Residential Painting Services](https://web.archive.org/web/20141217125309/http://mindysstrokeofcolor.com/)  |
+| Example | |
+|:-|:-|
+| 2012-13 | [Stroke of Color, Commercial and Residential Painting Services](https://web.archive.org/web/20141217125309/http://mindysstrokeofcolor.com/)  |
 
 ### **Hampton Inn, Agoura Hills CA** *2008–2015*  
 
