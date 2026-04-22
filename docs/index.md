@@ -29,15 +29,15 @@ All unsaved progress will be lost.
 
 ## DESCRIPTION
 
-Actively develops event-driven, serverless enterprise solutions while supporting legacy corporate infrastructure.
+Actively develops event-driven, serverless enterprise solutions while supporting legacy corporate infrastructure
 
-Strong technical background encompassing a variety of software and hardware technologies.
+Strong technical background encompassing a variety of software and hardware technologies
 
 ## OPTIONS
 
 [`--enthusiast`](#california-institute-of-applied-technology-san-diego-ca-2019-2021)
 
-> Enthusiastic about technologies with a heavy emphasis towards privacy, security, transparency, and decentralization.
+> Enthusiastic about technologies with a heavy emphasis towards privacy, security, transparency, and decentralization
 
 [`--game_programmer`](#whale-fall-studios-san-diego-ca-2015-2020)
 
@@ -45,7 +45,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 [`--professional`](#united-states-navy-san-diego-ca-2015-2019)
 
-> Collaborates with all levels of personnel, senior leadership, and clients to foster continuous improvement and enhance profitability.
+> Collaborates with all levels of personnel, senior leadership, and clients to foster continuous improvement and enhance profitability
 
 [`--serverless_developer`](#pilot-company-knoxville-tn-2021-present)
 
@@ -105,7 +105,7 @@ Strong technical background encompassing a variety of software and hardware tech
 #### Lead Programmer, Owner
 
 - Developed and published `Android` and `Windows` platform games with `Unity3D`, `C#`, `.NET Framework`, and `Visual Studio`
-- Worked directly alongside UI/UX designers and 3D asset animators.
+- Worked directly alongside UI/UX designers and 3D asset animators
 <br>
 
 | Example | | |
@@ -116,7 +116,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ### **United States Navy, San Diego CA** *2015-2019*  
 
-[`mf --professional  | grep 'history'`](#options)
+[`mf --professional | grep 'history'`](#options)
 
 #### Mass Communication Specialist 3rd Class (SW)
 
