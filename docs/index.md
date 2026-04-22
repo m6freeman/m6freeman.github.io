@@ -17,7 +17,7 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`mf --enthusiast linux [arch debian rhel] neovim ocaml open_source rust`
+`mf --enthusiast linux [arch debian rhel] open_source privacy security`
 
 `mf --game_programmer unity [c#]`
 
