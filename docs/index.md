@@ -146,9 +146,8 @@ Strong technical background encompassing a variety of software and hardware tech
 
 #### Guest Services Assistant
 
-- Managed room inventory through POS application
-- Trained new employees on POS applications and hotel policies
-- Performed on-call maintenance to computers and room appliances
+- Managed hotel inventory and trained new employees on POS application
+- Performed ad-hoc maintenance, housekeeping, and food and beverage duties as needed
 
 ## SEE ALSO
 
