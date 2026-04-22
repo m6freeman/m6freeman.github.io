@@ -155,11 +155,11 @@ Strong technical background encompassing a variety of software and hardware tech
 
 |Employer |Name |Role |Phone |Email |
 |:-|:-|:-|:-|:-|
+|[Pilot Company](https://www.pilotcompany.com/) |Brian Shell |Senior .Net Development Engineer |[0000000000](tel:+10000000000) |[brian.shell@email.com](mailto:brian.shell@email.com) |
 |[Pilot Company](https://www.pilotcompany.com/) |Joseph Cuevas |Cloud Engineer III |[3344888796](tel:+13344888796) |[joseph.cuevas6758@gmail.com](mailto:joseph.cuevas6758@gmail.com) |
 |[Pilot Company](https://www.pilotcompany.com/) |Karen McMickle |Business Analyst |[4235966689](tel:+14235966689) |[kamcmickle@gmail.com](mailto:kamcmickle@gmail.com) |
 |[Whale Fall Studios](https://m6freeman.itch.io/) |Bethany Glover |2D UI/UX Design |[6198061216](tel:+6198061216) |[bethanyjglover@gmail.com](mailto:bethanyjglover@gmail.com) |
 |[United States Navy](https://www.navy.mil/) |Chief Ross Taylor |Public Affairs Officer |[4802538308](tel:+14802538308) | |
-|[Hampton Inn & Suites](https://www.hilton.com/en/hotels/agocahx-hampton-suites-agoura-hills/) |Kathleen Walk |General Manager |[8185970333](tel:+18185970333) | |
 
 ### Contact Information
 
