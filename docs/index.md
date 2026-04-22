@@ -151,6 +151,14 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ## SEE ALSO
 
+### Website
+
+```bash
+# My resume, but in the terminal
+curl -s https://m6freeman.sh
+curl -s https://m6freeman.sh/resume | less -r
+```
+
 ### Professional References
 
 |Employer |Name |Role |Phone |Email |
