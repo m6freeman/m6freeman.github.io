@@ -25,8 +25,8 @@ theme:
     - revision.history.show
     - style.links.underline.hide
 
-  extra_css:
-    - css/terminal-fix.css
+extra_css:
+  - css/terminal-fix.css
 
 markdown_extensions:
   - toc:
