@@ -17,6 +17,8 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
+`mf --ai agent_harness [copilot opencode pi] model [gemma4:26b gpt-oss:20b sonnet4.6] runtime [llama.ccp ollama]`
+
 `mf --enthusiast linux [arch debian rhel] open_source privacy security`
 
 `mf --game_programmer unity [c#]`
@@ -29,11 +31,15 @@ All unsaved progress will be lost.
 
 ## DESCRIPTION
 
-Actively develops event-driven, serverless enterprise solutions while supporting legacy corporate infrastructure
+Engineers event‑driven, serverless enterprise solutions with automated CI/CD pipelines and agentic workflows, while maintaining legacy corporate infrastructure
 
 Strong technical background encompassing a variety of software and hardware technologies
 
 ## OPTIONS
+
+[`--ai`](#pilot-company-knoxville-tn-2021-present)
+
+> Uses GitHub `Copilot CLI`, `Opencode`, and `Pi` for orchestrated agent workflows; runs local models with `llama.cpp` and `Ollama` for privacy‑first AI development
 
 [`--enthusiast`](#california-institute-of-applied-technology-san-diego-ca-2019-2021)
 
@@ -57,7 +63,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ## EXAMPLES
 
-### **Pilot Company, Knoxville TN** *2021-present*  
+### **Pilot Company, Knoxville TN** *2021-present*
 
 [`mf --serverless_developer aws dotnet github_actions python terraform`](#options)
 
@@ -65,7 +71,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 #### .NET Development Engineer II
 
-- Designs, develops, deploys, and continuously integrates `Dotnet` and `Python` serverless solutions, as well as containerized solutions alongside `Docker`, `ECR`, and `ECS`, with `Terraform` provisioned by `Github Action`
+- Designs, develops, and continuously integrates and deploys `Dotnet` and `Python` `serverless` and `containerized` solutions, leveraging `Terraform` and `GitHub Actions` for end‑to‑end `CI/CD`, and orchestrating `agentic workflows` that automate code‑generation, testing, and deployment
 - Financial Transformation Project
     - Designed a prototype financial system integration and reporting solution and performed a demonstration of capabilities to executive leadership, ultimately resulting in the decision to not out-source the project
     - Performed requirements gathering and discovery for existing financial integrations for legacy system
@@ -88,17 +94,17 @@ Strong technical background encompassing a variety of software and hardware tech
 - Introduce new and modify existing features, perform debugging and patching, and perform project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits solutions with `dotnet framework 4.x` to `dotnet8`, `Powershell`, and `VB.NET`
 - Maintain and distribute `REST` and `SOAP` APIs, and customer facing web interfaces with `ASP.NET MVC`
 
-### **California Institute of Applied Technology, San Diego CA** *2019-2021*  
+### **California Institute of Applied Technology, San Diego CA** *2019-2021*
 
 [`mf --enthusiast`](#options)
 
-##### Associate’s of Applied Science Degree In Software Development
+##### Associate's of Applied Science Degree In Software Development
 
 | Example | |
 |:-|:-|
 | [Courses](https://github.com/m6freeman/ciat/)  | [ASD Program Overview](https://www.ciat.edu/wp-content/uploads/2024/07/ASD-Software-Development-CIAT-2024-Program-Guide.pdf)  |
 
-### **Whale Fall Studios, San Diego CA** *2015-2020*  
+### **Whale Fall Studios, San Diego CA** *2015-2020*
 
 [`mf --game_programmer`](#options)
 
@@ -114,13 +120,13 @@ Strong technical background encompassing a variety of software and hardware tech
 | 2016 | [Hyperlane](https://m6freeman.github.io/Hyperlane)  |  [github.com/m6freeman/hyperlane](https://github.com/m6freeman/Hyperlane) |
 | 2015 | [Porthole](https://m6freeman.github.io/Porthole) | [github.com/m6freeman/porthole](https://github.com/m6freeman/Porthole) |
 
-### **United States Navy, San Diego CA** *2015-2019*  
+### **United States Navy, San Diego CA** *2015-2019*
 
 [`mf --professional | grep 'history'`](#options)
 
 #### Mass Communication Specialist 3rd Class (SW)
 
-- Photographed, filmed, journal/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment aboard USS Essex (LHD-2) 
+- Photographed, filmed, journal/documented, published, and assisted in the coordination of various military operations, events and ceremonies, earning an Admiral's Letter of Commendation for my work during my 2018-19 Western Pacific deployment aboard USS Essex (LHD-2)
 - Designed publications and filmed/edited videos for military promotional use utilizing `Adobe Photoshop`, `InDesign`, and `Premiere`
 - Secret Clearance eligible
 <br>
@@ -129,7 +135,7 @@ Strong technical background encompassing a variety of software and hardware tech
 |:-|:-|
 | 2018-19 | [USS Essex Westpac](https://github.com/m6freeman/uss_essex_photos)  |
 
-### **Independent Web Development, Thousand Oaks CA** *2009–2015*
+### **Independent Web Development, Thousand Oaks CA** *2009-2015*
 
 #### Web Developer
 
@@ -142,7 +148,7 @@ Strong technical background encompassing a variety of software and hardware tech
 |:-|:-|
 | 2012-13 | [Stroke of Color, Commercial and Residential Painting Services](https://web.archive.org/web/20141217125309/http://mindysstrokeofcolor.com/)  |
 
-### **Hampton Inn, Agoura Hills CA** *2008–2015*  
+### **Hampton Inn, Agoura Hills CA** *2008-2015*
 
 #### Guest Services Assistant
 
