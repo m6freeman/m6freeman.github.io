@@ -1,0 +1,9 @@
+pre code {
+	overflow-x: hidden;
+	padding: 0;
+	margin: 0;
+	display: block;
+	min-width: 100%;
+	font-family: var(--mono-font-stack);
+	background-color: var(--block-background-color);
+}
