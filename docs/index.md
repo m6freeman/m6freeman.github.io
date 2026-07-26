@@ -165,6 +165,15 @@ curl -s https://m6freeman.sh
 curl -s https://m6freeman.sh/resume | less -r
 ```
 
+### Alternative Viewings
+
+```bash
+# View in terminal browsers
+lynx m6freeman.github.io
+surf m6freeman.github.io
+w3m m6freeman.github.io
+```
+
 ### Professional References
 
 |Employer |Name |Role |Phone |Email |
