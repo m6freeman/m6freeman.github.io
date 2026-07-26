@@ -17,7 +17,7 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`mf --ai agent_harness [copilot opencode pi] model [gemma4:26b gpt-oss:20b sonnet4.6] runtime [llama.ccp ollama]`
+`mf --ai agent_harness [copilot kiro-cli pi] model [gemma4:26b gpt-oss:20b sonnet4.6] runtime [llama.ccp ollama]`
 
 `mf --enthusiast linux [arch debian rhel] open_source privacy security`
 
@@ -39,7 +39,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 [`--ai`](#pilot-company-knoxville-tn-2021-present)
 
-> Uses GitHub `Copilot CLI`, `Opencode`, and `Pi` for orchestrated agent workflows; runs local models with `llama.cpp` and `Ollama` for privacy‑first AI development
+> Uses GitHub `Copilot CLI`, `Kiro-Cli`, and `Pi` for orchestrated agent workflows; runs local models with `llama.cpp` and `Ollama` for privacy‑first AI development
 
 [`--enthusiast`](#california-institute-of-applied-technology-san-diego-ca-2019-2021)
 
@@ -175,7 +175,9 @@ curl -s https://m6freeman.sh/resume | less -r
 |[Pilot Company](https://www.pilotcompany.com/) |Karen McMickle |Business Analyst |[4235966689](tel:+14235966689) |[kamcmickle@gmail.com](mailto:kamcmickle@gmail.com) |
 |[United States Navy](https://www.navy.mil/) |Chief Ross Taylor |Public Affairs Officer |[4802538308](tel:+14802538308) | |
 
-### Contact Information
+## AUTHOR
+
+**Matthew Freeman**
 
 |Email |Phone |XMPP |
 |:-|:-|:-|
