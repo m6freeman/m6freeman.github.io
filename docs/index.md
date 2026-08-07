@@ -69,7 +69,7 @@ Strong technical background encompassing a variety of software and hardware tech
 
 [`mf --software_engineer c# docker dotnet enterprise_solutions`](#options)
 
-#### .NET Development Engineer II
+#### Engineer II, Enterprise Applications
 
 - Designs, develops, and continuously integrates and deploys `Dotnet` and `Python` `serverless` and `containerized` solutions, leveraging `Terraform` and `GitHub Actions` for end‑to‑end `CI/CD`, and orchestrating `agentic workflows` that automate code‑generation, testing, and deployment
 - Financial Transformation Project
