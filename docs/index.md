@@ -61,7 +61,7 @@ Specialist in financial systems integration, multi-system ETL, and AI-assisted d
 
 > Introduces new features, performs debugging and patching, and executes project and infrastructural upgrades to legacy enterprise Financial, Payroll, HR, and Benefits systems
 
-## EXAMPLES
+## WORK EXPERIENCE
 
 ### **Pilot Company, Knoxville TN** *2021-present*
 
