@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://m6freeman.github.io/</loc>
-         <lastmod>2026-08-07</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://m6freeman.github.io/resume-conventional/</loc>
-         <lastmod>2026-08-07</lastmod>
+         <loc>https://m6freeman.github.io/_index-hybrid/</loc>
+         <lastmod>2026-08-18</lastmod>
+    </url>
+    <url>
+         <loc>https://m6freeman.github.io/_resume-conventional/</loc>
+         <lastmod>2026-08-18</lastmod>
     </url>
 </urlset>
