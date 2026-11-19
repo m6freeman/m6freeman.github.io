@@ -17,11 +17,13 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`mf --ai agent_harness [copilot kiro-cli pi] model [gemma4:26b gpt-oss:20b sonnet4.6] runtime [llama.cpp ollama]`
+`mf --ai agent_harness [copilot kiro-cli] skills mcp [atlassian]`
 
 `mf --enthusiast linux [arch debian rhel] open_source privacy security`
 
 `mf --game_programmer unity [c#]`
+
+`mf --local_ai agent_harness [pi] model [gemma4:26b gpt-oss:20b] runtime [llama.cpp ollama]`
 
 `mf --professional agile confluence infor [fsm ghr ionapi lawson] jira scrum`
 
@@ -33,17 +35,17 @@ All unsaved progress will be lost.
 
 Engineers event-driven, serverless enterprise solutions with automated CI/CD pipelines and agentic workflows, while maintaining legacy corporate infrastructure
 
-Specialist in financial systems integration, multi-system ETL, and AI-assisted development automation
+Specialist in financial systems integration, multi-system ETL, and AI-assisted engineering workflows
 
 ## OPTIONS
 
 [`--ai`](#pilot-company-knoxville-tn-2021-present)
 
-> Implements production agentic workflows using GitHub `Copilot CLI`, `Kiro-Cli`, and `Pi` agent harness for code generation, testing, and deployment automation; runs local models with `llama.cpp` and `Ollama` to maintain privacy-first AI development on sensitive enterprise data
+> Tailors AI-agent workflows with reusable skills and `MCP` integrations, including `Atlassian`
 
-[`--enthusiast`](#california-institute-of-applied-technology-san-diego-ca-2019-2021)
+[`--enthusiast`](#technical-skills)
 
-> Enthusiastic about technologies emphasizing privacy, security, transparency, and decentralization
+> Enthusiastic about technologies emphasizing privacy, security, transparency, and decentralization. Explores local LLMs with `Ollama` and `llama.cpp`, and experiments with the `Pi` agent harness for personal development workflows
 
 [`--game_programmer`](#whale-fall-studios-san-diego-ca-2015-2020)
 
@@ -71,7 +73,7 @@ Specialist in financial systems integration, multi-system ETL, and AI-assisted d
 
 #### Engineer II, Enterprise Applications *2023-present*
 
-- Designs, develops, and continuously integrates and deploys `Dotnet` and `Python` `serverless` and `containerized` solutions, leveraging `Terraform` and `GitHub Actions` for end-to-end `CI/CD` and orchestrating `agentic workflows` that automate code-generation, testing, and deployment
+- Designs, develops, and continuously integrates and deploys `Dotnet` and `Python` `serverless` and `containerized` solutions, leveraging `Terraform` and `GitHub Actions` for end-to-end `CI/CD`
 
 **Financial Transformation Project**
 
@@ -80,10 +82,9 @@ Specialist in financial systems integration, multi-system ETL, and AI-assisted d
 - Provided real-time business and diagnostic data to web front-end supporting AP, AR, and Corporate Accounting teams for reporting and metrics
 - Extended post-launch support triaged and resolved critical system automation and data integration issues across 30+ interconnected systems; deep troubleshooting strengthened expertise in multi-system financial integration patterns
 
-**AI-Assisted Development Workflows**
+**Agentic Engineering Workflows**
 
-- Implemented production agentic workflows using `GitHub Copilot CLI` and local LLM orchestration (`Ollama`, `llama.cpp`, `Pi` agent harness) to automate code generation, testing, and deployment validation
-- Achieved 40% developer velocity improvement while maintaining enterprise-grade security and privacy for sensitive financial data processing
+- Tailored AI-agent workflows with reusable skills and `MCP` integrations, including `Atlassian`, to support engineering delivery
 
 #### Engineer I, Enterprise Applications *2021-2023*
 
@@ -153,7 +154,9 @@ Specialist in financial systems integration, multi-system ETL, and AI-assisted d
 
 **Databases & Data**: `SQL Server`, `MySQL`, `DynamoDB`, data migration, `ETL`
 
-**AI & Automation**: `Kiro CLI`, `GitHub Copilot CLI`, `Pi` agent harness, `Ollama`, `llama.cpp`, agentic workflows
+**AI & Automation**: `Kiro CLI`, `GitHub Copilot CLI`, agentic workflows, `MCP` integrations
+
+**Personal AI & Tooling**: `Pi` agent harness, `Ollama`, `llama.cpp`
 
 **Tools & Methods**: `Git`, `Neovim`, `Tmux`, `VSCode/Visual Studio`, `Agile/Scrum`, `Jira`, `Confluence`, `IIS`, `REST APIs`
 
